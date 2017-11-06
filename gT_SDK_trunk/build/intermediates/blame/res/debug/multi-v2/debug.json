@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\CHENQIAO\\GTConsole\\gT_SDK_trunk\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\CHENQIAO\\GTConsole\\gT_SDK_trunk\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "6,3,7,2,5",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "207,117,258,57,168",
+                        "endColumns": "49,43,38,58,37",
+                        "endOffsets": "252,156,292,111,201"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,105,149,188,247",
+                        "endColumns": "49,43,38,58,37",
+                        "endOffsets": "100,144,183,242,280"
+                    }
+                }
+            ]
+        }
+    ]
+}
